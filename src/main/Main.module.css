@@ -2,17 +2,11 @@
     height: 100vh;
     background-color: #93ffb5;
 }
-
-.container {
-    border: 1px solid;
-    height: 100%;
-    width: 80%;
-    margin: 0 auto;
+.mainBlockContainer {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-
 .text {
     width: 300px;
     background-color: aliceblue;

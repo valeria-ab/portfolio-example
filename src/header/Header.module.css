@@ -1,6 +1,8 @@
 .header {
     height: 80px;
     background-color: #fffb93;
+}
+.headerContainer {
     display: flex;
     justify-content: flex-end;
     align-items: center;
